@@ -2,6 +2,9 @@ import * as moment from "moment"
 import {IBusinessTimeNarrator} from "./IBusinessTimeNarrator"
 import {IBusinessTimeConstraint} from "../BusinessTimeConstraint"
 
+
+ni aku muhaimin yang tukar
+
 /**
  * Decorator for business time constraints that ensures they offer business
  * time narration.

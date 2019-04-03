@@ -12,13 +12,13 @@ import {IBusinessTimeConstraint} from "../BusinessTimeConstraint"
 export class DefaultNarration implements IBusinessTimeNarrator {
 
     static readonly BUSINESS_TIME = "business hours"
-    static readonly NON_BUSINESS_TIME = "outside business hours"
+
 
     static canNarrate(obj: any): obj is IBusinessTimeNarrator {
         return typeof obj.narrate === "function"
     }
 
-    constructor(private readonly wrapped?: IBusinessTimeConstraint) {}
+
 
     /**
      * Get a business-relevant description for the given time.

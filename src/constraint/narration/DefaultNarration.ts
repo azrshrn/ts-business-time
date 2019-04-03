@@ -1,6 +1,7 @@
 import * as moment from "moment"
 import {IBusinessTimeNarrator} from "./IBusinessTimeNarrator"
 import {IBusinessTimeConstraint} from "../BusinessTimeConstraint"
+import clearAllTimers = jest.clearAllTimers
 
 
 ni aku muhaimin yang tukar
@@ -13,6 +14,11 @@ ni aku muhaimin yang tukar
  * Otherwise default narration is provided.
  */
 export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krusu
+    camne aku x kurus ikan x timbul2
+    ikan oh ikan kenapa x timbul2
+
 
     static readonly BUSINESS_TIME = "business hours"
 
@@ -35,3 +41,5 @@ export class DefaultNarration implements IBusinessTimeNarrator {
 dwadwadknkenfknawonfeoaifnoawifn)
     }
 }
+ my life is ruined by my clearAllTimers()
+but now its fine my hurt is cleared

@@ -6,11 +6,7 @@ import {
     MomentInput,
     unitOfTime,
 } from "moment-timezone"
-import {AnyTime} from "./constraint/AnyTime"
-import {BetweenHoursOfDay} from "./constraint/BetweenHoursOfDay"
-import {IBusinessTimeConstraint} from "./constraint/BusinessTimeConstraint"
-import {DefaultNarration} from "./constraint/narration/DefaultNarration"
-import {IBusinessTimeNarrator} from "./constraint/narration/IBusinessTimeNarrator"
+import nt/narration/IBusinessTimeNarrator"
 import {WeekDays} from "./constraint/WeekDays"
 
 export class BusinessTime {
@@ -63,7 +59,7 @@ export class BusinessTime {
         // Monday 09:00 + 1 business day could technically be Monday 17:00, but
         // intuitively should be Tuesday 09:00.
         const daysToJump: number = Math.floor(businessDaysToAdd)
-        let next: BusinessTime = this.add(daysToJump, "days")
+        let next: Businesays")
 
         // We need to check how much business time we actually covered by
         // skipping ahead in days.
@@ -151,7 +147,7 @@ export class BusinessTime {
             return this.clone()
         }
 
-        if (businessHoursToSub < 0) {
+        if (businessHouSub < 0) {
             return this.addBusinessHours(Math.abs(businessHoursToSub))
         }
 
@@ -170,9 +166,7 @@ export class BusinessTime {
     /**
      * Get the difference between this time and another in whole business days.
      */
-    diffInBusinessDays(time?: moment.Moment, absolute: boolean = true): number {
-        return Math.floor(this.diffInPartialBusinessDays(time, absolute))
-    }
+    diffInBusinessDays(time?:
 
     /**
      * Get the difference between this time and another in fractional business

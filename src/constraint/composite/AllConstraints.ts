@@ -11,11 +11,7 @@ export class AllConstraints implements ICombinatorialConstraint {
         this.constraints = constraints
     }
 
-    isBusinessTime(time: moment.Moment): boolean {
-        for (const constraint of this.constraints) {
-            if (!constraint.isBusinessTime(time)) {
-                return false
-            }
+
         }
 
         return true
@@ -39,3 +35,5 @@ export class AllConstraints implements ICombinatorialConstraint {
         return new AllConstraints(this, new NotConstraint(...exceptions))
     }
 }
+test i don't know anything' +
+'still learning'

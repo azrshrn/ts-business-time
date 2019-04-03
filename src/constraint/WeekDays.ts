@@ -21,3 +21,6 @@ export class WeekDays extends FormatConstraint
         return "the weekend"
     }
 }
+
+
+saje je test

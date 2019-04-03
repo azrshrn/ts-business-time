@@ -18,7 +18,7 @@ export class DefaultNarration implements IBusinessTimeNarrator {
 
     static bangau oh bangau kenapa engkau krusu
     camne aku x kurus ikan x timbul2
-    ikan oh ikan kenapa x timbul2
+    ikan oh ikan kenapa x timbul2sadfasdfasdfasdf
 
 
 //sdfasdfasdf
@@ -43,7 +43,7 @@ aku noob main csgo tolong ajar
             return this.wrapped.narrate(time)
         }
 
-        return time.format("dddd Do MMMM YYYY HH:mm")decodeURI(dwadawdwadawd
+        return time.format("dddd Do MMMM YYYY HH:mm")decodeURI(dwadawww∑∑wdwadawd
 dwadwadknkenfknawonfeoaifnoawifn)
     }
 }

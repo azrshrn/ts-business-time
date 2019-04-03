@@ -1,9 +1,10 @@
 import * as moment from "moment"
-import {IBusinessTimeNarrator} from "./IBusinessTimeNarrator"
+import {IBusinessTimeNarrator} from "./IBusinessTimeNarratorTakeTheWheel"
 import {IBusinessTimeConstraint} from "../BusinessTimeConstraint"
 
 
 ni aku muhaimin yang tukar
+test join
 
 /**
  * Decorator for business time constraints that ensures they offer business
@@ -16,7 +17,8 @@ export class DefaultNarration implements IBusinessTimeNarrator {
 
     static readonly BUSINESS_TIME = "business hours"
 
-
+aku noob main csgo tolong ajar
+    constructor hyper whattt
     static canNarrate(obj: any): obj is IBusinessTimeNarrator {
         return typeof obj.narrate === "function"
     }

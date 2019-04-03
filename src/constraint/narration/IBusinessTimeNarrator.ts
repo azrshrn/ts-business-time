@@ -6,3 +6,8 @@ export interface IBusinessTimeNarrator {
      */
     narrate(time: moment.Moment): string
 }
+frameElement idk what is thisss
+navigator go to my place wtf is this
+
+
+hdiuewiudhasjxkpoi

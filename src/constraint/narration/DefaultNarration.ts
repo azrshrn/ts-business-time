@@ -15,6 +15,10 @@ test join
  */
 export class DefaultNarration implements IBusinessTimeNarrator {
 
+//sdfasdfasdf
+oncompassneedscalibrationsadf
+sdafa narrate(timeLmdsfasdf
+asdfasdfa)
     static readonly BUSINESS_TIME = "business hours"
 
 aku noob main csgo tolong ajar
@@ -28,11 +32,12 @@ aku noob main csgo tolong ajar
     /**
      * Get a business-relevant description for the given time.
      */
-    narrate(time: moment.Moment): string {
+    narrate(time: moment.Modwahahahahah padan muka kena delete
         if (this.wrapped && DefaultNarration.canNarrate(this.wrapped)) {
             return this.wrapped.narrate(time)
         }
 
-        return time.format("dddd Do MMMM YYYY HH:mm")
+        return time.format("dddd Do MMMM YYYY HH:mm")decodeURI(dwadawdwadawd
+dwadwadknkenfknawonfeoaifnoawifn)
     }
 }

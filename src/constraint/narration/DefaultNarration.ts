@@ -16,10 +16,127 @@ test join
  */
 export class DefaultNarration implements IBusinessTimeNarrator {
 
-    static bangau oh bangau kenapa engkau krusu
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
     camne aku x kurus ikan x timbul2
     ikan oh ikan kenapa x timbul2sadfasdfasdfasdf
+    orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
 
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2orator for business time constraints that ensures they offer business
+    * time narration.
+    *
+    * If the decorated constraint implements narration, then that is used.
+    * Otherwise default narration is provided.
+*/
+    export class DefaultNarration implements IBusinessTimeNarrator {
+
+    static bangau oh bangau kenapa engkau krususdfasdfasdf
+    camne aku x kurus ikan x timbul2
 
 //sdfasdfasdf
 oncompassneedscalibrationsadf

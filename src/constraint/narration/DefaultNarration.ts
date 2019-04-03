@@ -3,23 +3,11 @@ import {IBusinessTimeNarrator} from "./IBusinessTimeNarrator"
 import {IBusinessTimeConstraint} from "../BusinessTimeConstraint"
 
 
-ni aku muhaimin yang tukar
 
-/**
- * Decorator for business time constraints that ensures they offer business
- * time narration.
- *
- * If the decorated constraint implements narration, then that is used.
- * Otherwise default narration is provided.
- */
-export class DefaultNarration implements IBusinessTimeNarrator {
-
-    static readonly BUSINESS_TIME = "business hours"
-
-
-    static canNarrate(obj: any): obj is IBusinessTimeNarrator {
-        return typeof obj.narrate === "function"
-    }
+//sdfasdfasdf
+oncompassneedscalibrationsadf
+sdafa narrate(timeLmdsfasdf
+asdfasdfa)
 
 
 

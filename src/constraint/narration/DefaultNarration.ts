@@ -1,10 +1,11 @@
 import * as moment from "moment"
-import {IBusinessTimeNarrator} from "./IBusinessTimeNarrator"
+import {IBusinessTimeNarrator} from "./IBusinessTimeNarratorTakeTheWheel"
 import {IBusinessTimeConstraint} from "../BusinessTimeConstraint"
 import clearAllTimers = jest.clearAllTimers
 
 
 ni aku muhaimin yang tukar
+test join
 
 /**
  * Decorator for business time constraints that ensures they offer business
@@ -20,9 +21,14 @@ export class DefaultNarration implements IBusinessTimeNarrator {
     ikan oh ikan kenapa x timbul2
 
 
+//sdfasdfasdf
+oncompassneedscalibrationsadf
+sdafa narrate(timeLmdsfasdf
+asdfasdfa)
     static readonly BUSINESS_TIME = "business hours"
 
-
+aku noob main csgo tolong ajar
+    constructor hyper whattt
     static canNarrate(obj: any): obj is IBusinessTimeNarrator {
         return typeof obj.narrate === "function"
     }
